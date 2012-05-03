@@ -1,0 +1,9 @@
+# English strings go here for Rails i18n
+en:
+  free_mind: Free Mind
+
+  permission_view_free_mind: View Free Mind
+
+  project_module_mind_map_viewer: Free Mind
+
+  text_fill_url_free_mind: Please fill in URL of Free Mind.

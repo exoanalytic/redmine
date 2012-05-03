@@ -1,0 +1,27 @@
+= Redmine Free Mind Plugin
+
+This is a plugin for Redmine
+
+=== Function
+
+1. You can view Free Mind.
+
+=== Plugin installation
+
+1. Copy the plugin directory into the vendor/plugins directory
+
+2. Start Redmine
+
+3. Enable the module on the project setting page.
+
+=== Note
+
+1. This plugin works only Redmine 1.0.0 or higher.
+
+=== Wiki Syntax Quick Reference for user Free Mind Plugin
+
+1. Inline freemind file {{free_mind(attached_freemind_file)}} or {{free_mind(attached_freemind_file, width, hight)}}
+
+=== Special thank!
+
+[makes wiki macro file] Haru Iida

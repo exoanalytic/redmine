@@ -1,0 +1,27 @@
+= Redmine Free Mind Plugin
+
+これは Redmine の為のプラグインです。
+
+=== 機能
+
+1. Free Mindを表示出来ます。
+
+=== プラグインをインストールする
+
+1. プラグインを vendor/plugins ディレクトリにコピーします。
+
+2. Redmine を起動させます。
+
+3. プロジェクトの設定ページのモジュールにて、Free Mind をチェックし、保存します。
+
+=== 注意
+
+1. 本プラグインは、Redmine 1.0.0 以降でのみ動作します。
+
+=== Free Mind Plugin を使う為の Wiki Syntax Quick Reference
+
+1. Wiki に Free Mind のファイルを表示させるには次の様に記載してください。{{free_mind(attached_freemind_file)}} または {{free_mind(attached_freemind_file, width, hight)}}
+
+=== Special thank!
+
+[wiki macro 化] Haru Iida

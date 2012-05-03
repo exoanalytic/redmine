@@ -1,0 +1,9 @@
+# Japanese strings go here for Rails i18n
+ja:
+  free_mind: Free Mind
+
+  permission_view_free_mind: Free Mind の閲覧
+
+  project_module_mind_map_viewer: Free Mind
+
+  text_fill_url_free_mind: 表示したい Free Mind のURLを記入してください。
